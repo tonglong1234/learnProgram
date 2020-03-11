@@ -1,3 +1,5 @@
 <!--pages/about/about.wxml-->
 <text class="title">hello world</text>
 <button size="large">按钮</button>
+<view>知识点一</view>
+<view>我的故乡这篇课文背诵10遍</view>
